@@ -6,9 +6,9 @@ However, something that we would like to incoporate is Public Key Cryptography. 
 
 Note: this has been modified and improved by thinfloors as part of Alchemy University.
 
-Improvements:
--Nonce addition so replay attacks are prevented
--Checking submitted transactions via signed hashes
+Improvements:  
+-Nonce addition so replay attacks are prevented  
+-Checking submitted transactions via signed hashes  
 -Ethereum-style addresses implemented
 
 ### Video instructions
