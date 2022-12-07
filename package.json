@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ethereum-cryptography": "^1.1.2"
+  }
+}
